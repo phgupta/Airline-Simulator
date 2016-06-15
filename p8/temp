@@ -1,0 +1,1 @@
+  } while (next_permutation(word.begin(), word.end()));

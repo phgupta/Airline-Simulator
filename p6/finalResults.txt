@@ -1,0 +1,12 @@
+As with p5, the Const checker will only be run after the deadline.
+You will receive a zero for consts until then.
+Scores from p6 for Shin, Ariel Gupta, Pranav 
+Note that names should be last name, then a comma, and then first name, e.g. Davis, Sean
+
+Addresses used: arishin@ucdavis.edu phgupta@ucdavis.edu  
+Style: 5 out of 5
+Design: 1 out of 9
+Const: 0 out of 9
+Operation: 5 out of 27
+Warnings (subtracted final score down to zero): 0
+Total: 11 out of 50.

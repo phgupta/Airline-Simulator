@@ -1,0 +1,8 @@
+Fatal design error: List or ListNode without a parameterized type found in *.cpp
+Fatal design error: CityList found in *.cpp *.h
+Design error: List <Plane> not found in main()
+Design error: List::operator<<  not found in list.h.
+Design error: Airport::operator<<  not found in airport.h.
+Design error: Flight::operator<<  not found in airport.h.
+Design error: City::operator<  not found in city.h.
+Design error: Flight::operator<  not found in airport.h.
